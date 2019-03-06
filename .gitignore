@@ -1,0 +1,9 @@
+*
+!pyasesm/
+!pyasesm/activelists.py
+!pyasesm/__init__.py
+!.gitignore
+!COPYING
+!README.md
+!setup.cfg
+!setup.py
